@@ -6,10 +6,14 @@ Semester project for STAT 486. Using machine learning to analyze song informatio
 
 ## Tier 1 (highest level of engagement)
 Data: Moderately complex to complex (satisfies several of the following)
-*~1000 or more instance
-*Many features of varying types
-*Non-tabular data
-*Some processing and cleaning
+
+~1000 or more instance
+
+Many features of varying types
+
+Non-tabular data
+
+Some processing and cleaning
 
 Analysis: The project should include at least FIVE of the following:
 * Significant or innovative feature engineering
