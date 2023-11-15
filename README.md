@@ -6,14 +6,10 @@ Semester project for STAT 486. Using machine learning to analyze song informatio
 
 ## Tier 1 (highest level of engagement)
 Data: Moderately complex to complex (satisfies several of the following)
-
-~1000 or more instance
-
-Many features of varying types
-
-Non-tabular data
-
-Some processing and cleaning
+* ~1000 or more instance
+* Many features of varying types
+* Non-tabular data
+* Some processing and cleaning
 
 Analysis: The project should include at least FIVE of the following:
 * Significant or innovative feature engineering
@@ -28,15 +24,15 @@ recommender systems
 * Use of a significant ML method we didn't learn in class
 
 Feedback & Iteration:
-*After EDA, specifically ask peer reviewers:
-*Are there any aspects that you didn't explore?
-*After analysis step, specifically ask peer reviewers:
-*Is there anything that is incorrect?
-*Are there other models or methods that could be considered?
-*On final report, specifically ask peer reviewers:
-*Is anything unclear, too wordy/detailing, too vague?
-*Are there any obvious typos or formatting issues?
+* After EDA, specifically ask peer reviewers:
+* Are there any aspects that you didn't explore?
+* After analysis step, specifically ask peer reviewers:
+* Is there anything that is incorrect?
+* Are there other models or methods that could be considered?
+* On final report, specifically ask peer reviewers:
+* Is anything unclear, too wordy/detailing, too vague?
+* Are there any obvious typos or formatting issues?
 
 Deliverables:
-*GitHub Repo:
-*A web application, dashboard or blog post
+* GitHub Repo:
+* A web application, dashboard or blog post
